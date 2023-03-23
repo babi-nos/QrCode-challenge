@@ -28,7 +28,7 @@ background: hsl(212, 45%, 89%);
     display: block;
     margin: auto;
     border-radius: 15px;
-    height: 300px;
+    /* height: 275px; */
 }
 .container h2{
     padding: 20px 5px 20px 5px;
@@ -37,11 +37,12 @@ background: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 900;
+    line-height: 1.4;
 }
 .container p{
-    padding: 0px 5px 15px 5px;
+    padding: 0px 5px 30px 5px;
     color: hsl(220, 15%, 55%);
-    Font-size: 16px;
+    Font-size: 15px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }

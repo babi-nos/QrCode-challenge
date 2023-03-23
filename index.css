@@ -16,7 +16,7 @@ background: hsl(212, 45%, 89%);
 }
 .container .content-qr{
     background: hsl(0, 0%, 100%);
-    width: 285px;
+    width: 290px;
     height: auto;
     /* margin: auto ; */
     border-radius: 15px;
@@ -28,10 +28,10 @@ background: hsl(212, 45%, 89%);
     display: block;
     margin: auto;
     border-radius: 15px;
-    height: 295px;
+    height: 290px;
 }
 .container h2{
-    padding: 15px 5px 15px 5px;
+    padding: 20px 5px 15px 5px;
     Font-size: 22px;
     text-align: center;
     color: hsl(218, 44%, 22%);
@@ -40,9 +40,9 @@ background: hsl(212, 45%, 89%);
     line-height: 1.4;
 }
 .container p{
-    padding: 0px 5px 25px 5px;
+    padding: 0px 12px 25px 12px;
     color: hsl(220, 15%, 55%);
-    Font-size: 16px;
+    Font-size: 1.0em;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }

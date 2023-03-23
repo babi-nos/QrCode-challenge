@@ -12,11 +12,12 @@ background: hsl(212, 45%, 89%);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
 }
 .container .content-qr{
     background: hsl(0, 0%, 100%);
     width: 275px;
-    height: 450px;
+    height: auto;
     margin: auto ;
     border-radius: 15px;
     padding: 15px;
@@ -29,17 +30,19 @@ background: hsl(212, 45%, 89%);
     border-radius: 15px;
 }
 .container h2{
-    padding: 20px 0px;
-    Font-size: 25px;
+    padding: 20px 5px 20px 5px;
+    Font-size: 21px;
     text-align: center;
     color: hsl(218, 44%, 22%);
-
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
 }
 .container p{
-    /* padding: 20px 0px; */
+    padding: 0px 5px 0px 5px;
     color: hsl(220, 15%, 55%);
-
-    Font-size: 18px;
+    Font-size: 16px;
     text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
 
 }

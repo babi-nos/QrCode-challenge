@@ -37,12 +37,12 @@ background: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 900;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 .container p{
     padding: 0px 15px 25px 15px;
     color: hsl(220, 15%, 55%);
-    Font-size: 15px;
+    Font-size: 15.5px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }

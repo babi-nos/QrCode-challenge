@@ -40,9 +40,9 @@ background: hsl(212, 45%, 89%);
     line-height: 1.4;
 }
 .container p{
-    padding: 0px 12px 25px 12px;
+    padding: 0px 15px 25px 15px;
     color: hsl(220, 15%, 55%);
-    Font-size: 1.0em;
+    Font-size: 15px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }

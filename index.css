@@ -16,23 +16,23 @@ background: hsl(212, 45%, 89%);
 }
 .container .content-qr{
     background: hsl(0, 0%, 100%);
-    width: 275px;
+    width: 285px;
     height: auto;
     /* margin: auto ; */
     border-radius: 15px;
     padding: 15px;
-    box-shadow: 0px 10px 20px 2px #0000003e;
+    box-shadow: 0px 10px 20px 2px #00000014;
 }
 .container img{
     width: 100%;
     display: block;
     margin: auto;
     border-radius: 15px;
-    height: 290px;
+    height: 285px;
 }
 .container h2{
     padding: 20px 5px 20px 5px;
-    Font-size: 21px;
+    Font-size: 22px;
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
@@ -42,7 +42,7 @@ background: hsl(212, 45%, 89%);
 .container p{
     padding: 0px 5px 25px 5px;
     color: hsl(220, 15%, 55%);
-    Font-size: 15px;
+    Font-size: 16px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }

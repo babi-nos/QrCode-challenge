@@ -28,16 +28,16 @@ background: hsl(212, 45%, 89%);
     display: block;
     margin: auto;
     border-radius: 15px;
-    height: 285px;
+    height: 290px;
 }
 .container h2{
-    padding: 15px 5px 15px 5px;
+    padding: 20px 5px 15px 5px;
     Font-size: 22px;
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 900;
-    line-height: 1.2;
+    /* line-height: 1.2; */
 }
 .container p{
     padding: 0px 15px 25px 15px;
